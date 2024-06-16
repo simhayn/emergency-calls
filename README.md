@@ -40,7 +40,7 @@ The dataset used is sourced from [Kaggle's 911 Calls dataset](https://www.kaggle
 ## Usage
 Run the Jupyter Notebook for data analysis:
     ```sh
-    jupyter notebook notebooks/911_calls_analysis.ipynb
+    jupyter notebook notebooks/01-911 Calls Data Capstone Project.ipynb
     ```
 
 ## Features
