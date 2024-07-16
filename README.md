@@ -1,14 +1,13 @@
-# 911 Calls Capstone Project
+# 911 Emergency Calls 
 
 ## Project Overview
 
-For this capstone project, we analyze 911 emergency call data to gain insights into call volumes, reasons for calls, and temporal patterns. The project focuses on exploratory data analysis (EDA) using Python and various data visualization libraries.
+Analyze 911 emergency call data to gain insights into call volumes, reasons for calls, and temporal patterns. The project focuses on exploratory data analysis (EDA) using Python and various data visualization libraries.
 
 ## Table of Contents
 
 1. [Project Description](#project-description)
 2. [Data Source](#data-source)
-3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Features](#features)
 6. [Contributing](#contributing)
@@ -31,17 +30,9 @@ The dataset used is sourced from [Kaggle's 911 Calls dataset](https://www.kaggle
 - Timestamp of the call
 - Type of emergency (e.g., EMS, Fire, Traffic)
   
-## Installation
-**Clone the repository:**
-    ```sh
-    git clone https://github.com/simhayn/emergency-calls.git
-    cd emergency-calls
-    ```
+
 ## Usage
-Run the Jupyter Notebook for data analysis:
-    ```sh
-    jupyter notebook notebooks/01-911 Calls Data Capstone Project.ipynb
-    ```
+Open the notebook and view the project: [notebook](emergency-calls.ipynb)
 
 ## Features
 - Data Loading and Cleaning: Clean and preprocess the dataset.
